@@ -1,0 +1,84 @@
+2022-05-20 13:05:240 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 13:05:333 INFO  HomePage :70 - Accepting cookies: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> xpath: //button[@id='save']]
+2022-05-20 13:05:776 INFO  HomePage :75 - Entering job title: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> id: keywords]
+2022-05-20 13:05:951 INFO  HomePage :80 - Entering location: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> id: location]
+2022-05-20 13:05:114 INFO  HomePage :86 - Selecting distance from dropdown: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> id: distance]
+2022-05-20 13:05:586 INFO  HomePage :91 - Clicking on more search options: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> id: toggle-hp-search]
+2022-05-20 13:05:208 INFO  HomePage :96 - Entering minimum salary: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> id: salarymin]
+2022-05-20 13:05:333 INFO  HomePage :101 - Entering maximum salary: 50000
+2022-05-20 13:05:397 INFO  HomePage :106 - Selecting salary type from dropdown: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> id: salarytype]
+2022-05-20 13:05:564 INFO  HomePage :111 - Selecting job type from dropdown: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> id: tempperm]
+2022-05-20 13:05:781 INFO  HomePage :116 - Clicking on find job button: [[ChromeDriver: chrome on WINDOWS (eb6a355618745d7540982d87708c92b0)] -> id: hp-search-btn]
+2022-05-20 13:05:951 INFO  ResultPage :32 - Verifying Search result: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='search-header__title']'
+2022-05-20 13:05:577 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 13:05:972 INFO  HomePage :70 - Accepting cookies: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> xpath: //button[@id='save']]
+2022-05-20 13:05:282 INFO  HomePage :75 - Entering job title: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> id: keywords]
+2022-05-20 13:05:859 INFO  HomePage :80 - Entering location: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> id: location]
+2022-05-20 13:05:929 INFO  HomePage :86 - Selecting distance from dropdown: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> id: distance]
+2022-05-20 13:05:163 INFO  HomePage :91 - Clicking on more search options: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> id: toggle-hp-search]
+2022-05-20 13:05:594 INFO  HomePage :96 - Entering minimum salary: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> id: salarymin]
+2022-05-20 13:05:728 INFO  HomePage :101 - Entering maximum salary: 60000
+2022-05-20 13:05:811 INFO  HomePage :106 - Selecting salary type from dropdown: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> id: salarytype]
+2022-05-20 13:05:983 INFO  HomePage :111 - Selecting job type from dropdown: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> id: tempperm]
+2022-05-20 13:05:156 INFO  HomePage :116 - Clicking on find job button: [[ChromeDriver: chrome on WINDOWS (04f42ef2fe2dc7a6dc47fcfb21299ecb)] -> id: hp-search-btn]
+2022-05-20 13:05:235 INFO  ResultPage :32 - Verifying Search result: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='search-header__title']'
+2022-05-20 13:05:75 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 13:05:887 INFO  HomePage :70 - Accepting cookies: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> xpath: //button[@id='save']]
+2022-05-20 13:05:601 INFO  HomePage :75 - Entering job title: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> id: keywords]
+2022-05-20 13:05:782 INFO  HomePage :80 - Entering location: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> id: location]
+2022-05-20 13:05:929 INFO  HomePage :86 - Selecting distance from dropdown: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> id: distance]
+2022-05-20 13:05:293 INFO  HomePage :91 - Clicking on more search options: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> id: toggle-hp-search]
+2022-05-20 13:05:458 INFO  HomePage :96 - Entering minimum salary: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> id: salarymin]
+2022-05-20 13:05:708 INFO  HomePage :101 - Entering maximum salary: 60000
+2022-05-20 13:05:757 INFO  HomePage :106 - Selecting salary type from dropdown: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> id: salarytype]
+2022-05-20 13:05:820 INFO  HomePage :111 - Selecting job type from dropdown: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> id: tempperm]
+2022-05-20 13:05:13 INFO  HomePage :116 - Clicking on find job button: [[ChromeDriver: chrome on WINDOWS (fcc4c1679c24544a897cf939d1558682)] -> id: hp-search-btn]
+2022-05-20 13:05:235 INFO  ResultPage :32 - Verifying Search result: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='search-header__title']'
+2022-05-20 13:05:218 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 13:05:112 INFO  HomePage :70 - Accepting cookies: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> xpath: //button[@id='save']]
+2022-05-20 13:05:367 INFO  HomePage :75 - Entering job title: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> id: keywords]
+2022-05-20 13:05:982 INFO  HomePage :80 - Entering location: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> id: location]
+2022-05-20 13:05:117 INFO  HomePage :86 - Selecting distance from dropdown: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> id: distance]
+2022-05-20 13:05:400 INFO  HomePage :91 - Clicking on more search options: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> id: toggle-hp-search]
+2022-05-20 13:05:622 INFO  HomePage :96 - Entering minimum salary: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> id: salarymin]
+2022-05-20 13:05:865 INFO  HomePage :101 - Entering maximum salary: 50000
+2022-05-20 13:05:957 INFO  HomePage :106 - Selecting salary type from dropdown: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> id: salarytype]
+2022-05-20 13:05:123 INFO  HomePage :111 - Selecting job type from dropdown: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> id: tempperm]
+2022-05-20 13:05:287 INFO  HomePage :116 - Clicking on find job button: [[ChromeDriver: chrome on WINDOWS (ea2d1aea1f4564cf505693c0f049bdcd)] -> id: hp-search-btn]
+2022-05-20 13:05:334 INFO  ResultPage :32 - Verifying Search result: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='search-header__title']'
+2022-05-20 13:05:565 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 13:05:983 INFO  HomePage :70 - Accepting cookies: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> xpath: //button[@id='save']]
+2022-05-20 13:05:362 INFO  HomePage :75 - Entering job title: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> id: keywords]
+2022-05-20 13:05:863 INFO  HomePage :80 - Entering location: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> id: location]
+2022-05-20 13:05:10 INFO  HomePage :86 - Selecting distance from dropdown: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> id: distance]
+2022-05-20 13:05:255 INFO  HomePage :91 - Clicking on more search options: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> id: toggle-hp-search]
+2022-05-20 13:05:684 INFO  HomePage :96 - Entering minimum salary: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> id: salarymin]
+2022-05-20 13:05:840 INFO  HomePage :101 - Entering maximum salary: 400
+2022-05-20 13:05:959 INFO  HomePage :106 - Selecting salary type from dropdown: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> id: salarytype]
+2022-05-20 13:05:63 INFO  HomePage :111 - Selecting job type from dropdown: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> id: tempperm]
+2022-05-20 13:05:264 INFO  HomePage :116 - Clicking on find job button: [[ChromeDriver: chrome on WINDOWS (698be3b9d4bf086dd16a7c5a9f1a0289)] -> id: hp-search-btn]
+2022-05-20 13:05:269 INFO  ResultPage :32 - Verifying Search result: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='search-header__title']'
+2022-05-20 13:05:650 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 13:05:863 INFO  HomePage :70 - Accepting cookies: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> xpath: //button[@id='save']]
+2022-05-20 13:05:625 INFO  HomePage :75 - Entering job title: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> id: keywords]
+2022-05-20 13:05:821 INFO  HomePage :80 - Entering location: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> id: location]
+2022-05-20 13:05:147 INFO  HomePage :86 - Selecting distance from dropdown: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> id: distance]
+2022-05-20 13:05:392 INFO  HomePage :91 - Clicking on more search options: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> id: toggle-hp-search]
+2022-05-20 13:05:847 INFO  HomePage :96 - Entering minimum salary: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> id: salarymin]
+2022-05-20 13:05:978 INFO  HomePage :101 - Entering maximum salary: 800
+2022-05-20 13:05:110 INFO  HomePage :106 - Selecting salary type from dropdown: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> id: salarytype]
+2022-05-20 13:05:209 INFO  HomePage :111 - Selecting job type from dropdown: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> id: tempperm]
+2022-05-20 13:05:364 INFO  HomePage :116 - Clicking on find job button: [[ChromeDriver: chrome on WINDOWS (02f2a54baabac53628468d07b263eecf)] -> id: hp-search-btn]
+2022-05-20 13:05:413 INFO  ResultPage :32 - Verifying Search result: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='search-header__title']'
+2022-05-20 13:05:738 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 13:05:938 INFO  HomePage :70 - Accepting cookies: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> xpath: //button[@id='save']]
+2022-05-20 13:05:641 INFO  HomePage :75 - Entering job title: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> id: keywords]
+2022-05-20 13:05:781 INFO  HomePage :80 - Entering location: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> id: location]
+2022-05-20 13:05:906 INFO  HomePage :86 - Selecting distance from dropdown: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> id: distance]
+2022-05-20 13:05:117 INFO  HomePage :91 - Clicking on more search options: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> id: toggle-hp-search]
+2022-05-20 13:05:559 INFO  HomePage :96 - Entering minimum salary: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> id: salarymin]
+2022-05-20 13:05:682 INFO  HomePage :101 - Entering maximum salary: 75000
+2022-05-20 13:05:741 INFO  HomePage :106 - Selecting salary type from dropdown: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> id: salarytype]
+2022-05-20 13:05:884 INFO  HomePage :111 - Selecting job type from dropdown: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> id: tempperm]
+2022-05-20 13:05:183 INFO  HomePage :116 - Clicking on find job button: [[ChromeDriver: chrome on WINDOWS (abb5186426e29b692d2d6987c499041d)] -> id: hp-search-btn]
+2022-05-20 13:05:181 INFO  ResultPage :32 - Verifying Search result: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='search-header__title']'
